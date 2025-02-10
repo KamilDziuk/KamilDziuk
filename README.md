@@ -1,8 +1,15 @@
-# Hi there 👋, my name is Kamil Dziuk
+# Hi there, my name is Kamil Dziuk
 
-🔭 I'm currently working on: [hollapolla_restaurant_ordering_system](https://github.com/KamilDziuk/hollapolla_restaurant_ordering_system) , [hollapolla_restaurant_reservation_system](https://github.com/KamilDziuk/hollapolla_restaurant_reservation_system)
+I am a Web Developer, I create websites and web applications on a daily basis. I work mainly with JavaScript and MySQL databases. In my projects, I focus on clarity and simplicity of code.
+In my free time, I develop my own projects and visit interesting places ✈️
 
-🌱 I’m currently learning: Advanced JavaScript & API handling and PHP.
+🔭 I'm currently working on: 
+- [hollapolla_restaurant_ordering_system](https://github.com/KamilDziuk/hollapolla_restaurant_ordering_system)
+- [hollapolla_restaurant_reservation_system](https://github.com/KamilDziuk/hollapolla_restaurant_reservation_system)
+
+🌱 I’m currently learning:
+- Advanced JavaScript
+- PHP
 
 
 # 💻 Tech Stack:

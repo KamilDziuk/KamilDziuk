@@ -10,7 +10,7 @@ In my free time, I develop my own projects and visit interesting places ✈️
 
 🌱 I’m currently learning:
 - Advanced JavaScript
-- PHP
+- React
 
 
 # 💻 Tech Stack:

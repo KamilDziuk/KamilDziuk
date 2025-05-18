@@ -4,7 +4,7 @@ I am a Web Developer, I create websites and web applications on a daily basis. I
 In my free time, I develop my own projects and visit interesting places ✈️
 
 🔭 I'm currently working on: 
-- [hollapolla_restaurant_website](https://github.com/KamilDziuk/hollapolla_restaurant_website)
+- [yourAssistantAI](https://github.com/KamilDziuk/yourAssistantAI)
   
 
 

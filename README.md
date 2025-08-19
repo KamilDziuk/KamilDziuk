@@ -5,7 +5,7 @@ I create modern web interfaces based on JavaScript. I focus on readable code and
 I'm currently working on: 
  - <a href="https://github.com/KamilDziuk/djMatthew">djMatthew</a>
 
-I’m currently learning:
+I'm currently learning:
 -  Advanced React
 
 # Tech Stack:

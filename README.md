@@ -1,13 +1,12 @@
 # Hi there, my name is Kamil Dziuk
 
-I create modern web interfaces based on JavaScript. I focus on readable code and solid architecture. In my free time, I develop my own projects and explore interesting places. ✈️
+I create modern web interfaces based on JavaScript. I focus on readable code and solid architecture. In my free time, I develop my own projects and explore interesting places.
 
 I'm currently working on: 
  - <a href="https://github.com/KamilDziuk/djMatthew">djMatthew</a>
 
 I’m currently learning:
 -  Advanced React
-
 
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  

@@ -3,8 +3,7 @@
 I create modern web interfaces based on JavaScript. I focus on readable code and solid architecture. In my free time, I develop my own projects and explore interesting places. ✈️
 
 🔭 I'm currently working on: 
-- [djMatthew](https://github.com/KamilDziuk/djMatthew)
-  
+ - <a href="https://github.com/KamilDziuk/djMatthew">djMatthew</a>
 
 🌱 I’m currently learning:
 -  Advanced React

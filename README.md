@@ -3,8 +3,7 @@
 <div>I create modern web interfaces based on JavaScript. I focus on readable code and solid architecture. In my free time, I develop my own projects and explore interesting places.</div>
 <br>
 I'm currently working on: <br>
-- <a target="_blank"  href="https://github.com/KamilDziuk/live-chat">live-chat</a>
-
+- <a target="_blank"  href="https://github.com/KamilDziuk/live-chat">live-chat</a><br>
 - <a target="_blank"  href="https://kamildziuk.github.io/#/blog">blog</a>
 <br>
 

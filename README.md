@@ -4,7 +4,6 @@
 <br>
 I'm currently working on: <br>
 - <a target="_blank"  href="https://github.com/KamilDziuk/live-chat">live-chat</a><br>
-- <a target="_blank"  href="https://kamildziuk.github.io/#/blog">blog</a>
 <br>
 
 <br>

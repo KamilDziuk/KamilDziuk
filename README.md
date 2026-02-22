@@ -1,6 +1,6 @@
 
 <h3>Hi there, my name is Kamil</h3>
-<div>I specialize in creating modern websites and web applications, focusing on usability, performance, and clean code. I primarily work with JavaScript and React, as well as WordPress. Outside of work, I develop my own projects, experiment with new solutions, and enjoy discovering new places — both in code and beyond.</div>
+<div>I specialize in creating modern websites and web applications, focusing on usability, performance, and clean code. I primarily work with JavaScript and React, as well as WordPress. Outside of work, I develop my own projects, experiment with new solutions, and enjoy discovering new places - both in code and beyond.</div>
 <br>
 I'm currently working on: <br>
 - <a target="_blank"  href="https://github.com/KamilDziuk/live-chat">live-chat</a><br>

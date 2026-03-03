@@ -12,6 +12,7 @@ I'm currently learning: <br>
 <br>
 - <a  target="_blank" href="https://nodejs.org/docs/latest/api/stream.html">Stream / Node.js </a>
 <br>
+- <span>Vitest & GitHub Actions(unit tests)</span>
 <br>
 <br>
 <div>

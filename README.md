@@ -8,9 +8,9 @@ I'm currently working on: <br>
 
 <br>
 I'm currently learning: <br>
-- <a  target="_blank" href="https://docs.docker.com/get-started/introduction/">Docker </a>
+- Python 
 <br>
-- <a  target="_blank" href="https://nodejs.org/docs/latest/api/stream.html">Stream / Node.js </a>
+- <a  target="_blank" href="https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html">Developing secure coding and validation skills.</a>
 <br>
 - <span>Vitest & GitHub Actions(unit tests)</span>
 <br>

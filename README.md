@@ -2,7 +2,7 @@
 <h3>Hi there, my name is Kamil</h3>
 I create modern websites and web applications with a strong focus on usability, performance, and clean, scalable code. I mainly work with JavaScript, React, and WordPress.
 
-I continuously develop my skills through courses, mentoring, meetups, and personal projects. I’m constantly expanding my knowledge, keeping up with new technologies, and improving my approach to building modern digital products.
+I continuously develop my skills through courses, mentoring, meetups, and personal projects. I'm constantly expanding my knowledge, keeping up with new technologies, and improving my approach to building modern digital products.
 
 I focus not only on code, but also on business goals and client needs. I aim to create solutions that are not only technically well-built, but also genuinely support users and help businesses grow.
 

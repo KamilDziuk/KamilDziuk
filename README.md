@@ -1,6 +1,12 @@
 
 <h3>Hi there, my name is Kamil</h3>
-<div>I specialize in creating modern websites and web applications, focusing on usability, performance, and clean code. I primarily work with JavaScript and React, as well as WordPress. Outside of work, I develop my own projects, experiment with new solutions, and enjoy discovering new places - both in code and beyond.</div>
+<div>I create modern websites and web applications with a strong focus on usability, performance, and clean, scalable code. I mainly work with JavaScript, React, and WordPress.
+
+I continuously develop my skills through courses, mentoring, meetups, and personal projects. I’m constantly expanding my knowledge, keeping up with new technologies, and improving my approach to building modern digital products.
+
+I focus not only on code, but also on business goals and client needs. I aim to create solutions that are not only technically well-built, but also genuinely support users and help businesses grow.
+
+</div>
 <br>
 I'm currently working on: <br>
 - <a target="_blank"  href="https://github.com/KamilDziuk/yourAssistantAI">Your Assistant AI</a><br>
